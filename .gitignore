@@ -1,0 +1,5 @@
+# settings from Eclipse
+*.settings/
+
+# compiled Java files
+.class
