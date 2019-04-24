@@ -2,4 +2,4 @@
 *.settings/
 
 # compiled Java files
-.class
+*.class
